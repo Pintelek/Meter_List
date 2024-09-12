@@ -1,4 +1,4 @@
-# Meters List
+# Meter List
 
 ## Таблица счётчиков горячей и холодной воды
 
@@ -13,14 +13,14 @@
 1. **Склонируйте репозиторий на свой компьютер:**
 
    ```bash
-   git clone https://github.com/Pintelek/Meters_List_ts.git
+   git clone https://github.com/Pintelek/Meter_List.git
 
-   ```
+   ```Pintelek
 
 2. **Перейдите в директорию проекта:**
 
    ```bash
-   cd Meters_List_ts
+   cd Meters_List
 
    ```
 
@@ -32,7 +32,7 @@
 
 **Запуск**
 
-В терминале дериктории Meters_List_ts можете запустить приложение командой:
+В терминале дериктории Meter_List можете запустить приложение командой:
 
 ```bash
 npm run dev
